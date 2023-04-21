@@ -1,5 +1,7 @@
 # Empty Character App Website
 
+# TODO: Add New 404 on Firebase
+
 Yep, the Empty Character website hosted on Firebase Hosting (But for some reasons GitHub Pages is also enabled) at (https://emptycharacterapp.web.app) is now available as Open Source on GitHub
 
 So the website is currently powered by the dear Firebase Hosting, but the source code is available here if you want to check it out
