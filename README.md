@@ -1,7 +1,7 @@
 # Empty Character App Website
 
 # TODO: Add New 404 on Firebase
-# TODO: Add Telegram Channel Link to Website (GitHub & Firebase)
+
 
 Yep, the Empty Character website hosted on Firebase Hosting (But for some reasons GitHub Pages is also enabled) at (https://emptycharacterapp.web.app) is now available as Open Source on GitHub
 
