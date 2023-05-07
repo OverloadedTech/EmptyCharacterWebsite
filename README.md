@@ -1,5 +1,6 @@
 # Empty Character App Website
 
+# TODO: Add Twitter Link on Website
 
 
 Yep, the Empty Character website hosted on Firebase Hosting (But for some reasons GitHub Pages is also enabled) at (https://emptycharacterapp.web.app) is now available as Open Source on GitHub
